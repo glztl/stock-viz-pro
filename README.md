@@ -68,6 +68,10 @@ streamlit run app.py
 
 
 
-<p align="center">
-  如果这个项目对你有帮助，请点击右上角 Star 支持一下！
-</p>
+<div align="center">
+
+### ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=glztl/stock-viz-pro&type=Date)](https://star-history.com/#glztl/stock-viz-pro&Date)
+
+</div>
