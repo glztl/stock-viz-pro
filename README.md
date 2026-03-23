@@ -67,8 +67,7 @@ streamlit run app.py
 ```
 
 
-```bash
+
 <p align="center">
   如果这个项目对你有帮助，请点击右上角 Star 支持一下！
 </p>
-```
