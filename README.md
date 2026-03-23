@@ -35,10 +35,8 @@
 ## 🖼️ 项目演示
 
 ### 主界面
-![主界面演示](assets/screenshot-main.png)
-
 ### 策略信号
-![策略信号演示](assets/screenshot-strategy.png)
+![策略信号演示](assets/example.png)
 
 ---
 
@@ -53,7 +51,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/stock-viz-pro.git
+git clone https://github.com/glztl/stock-viz-pro.git
 cd stock-viz-pro
 
 # 2. 使用 uv 安装依赖 (推荐)
@@ -66,13 +64,11 @@ pip install -r requirements.txt
 uv run streamlit run app.py
 # 或
 streamlit run app.py
-
-
-
 ```
-<div align="center">
 
-如果这个项目对你有帮助，请给一个 ⭐ Star！
 
-</div>
+```bash
+<p align="center">
+  如果这个项目对你有帮助，请点击右上角 Star 支持一下！
+</p>
 ```
